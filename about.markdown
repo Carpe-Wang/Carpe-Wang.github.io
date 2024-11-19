@@ -1,12 +1,10 @@
 ## Hi there, I'm Carpe-Wang 👋🪂✈️
 ### [there is my resume](https://github.com/Carpe-Wang/Carpe-Wang/blob/main/Kaipeng%20Wang's.pdf)
-### Summary of this year
-
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<h3 align="center"></h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cmake,docker,git,go,linux,postgres,python,java,mysql" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cmake,docker,git,go,linux,postgres,python,java,mysql,aws" alt="Skills and tools"/>
   </a>
 </p>
 
